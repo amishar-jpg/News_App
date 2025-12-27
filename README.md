@@ -3,6 +3,7 @@
 A simple Python-based News Application that fetches and displays the latest technology-related news articles using the **NewsAPI**. This project demonstrates how to work with REST APIs, handle JSON responses, and make HTTP requests in Python.
 
 
+
 ##  Features
 
 * Fetches real-time news articles
@@ -10,6 +11,7 @@ A simple Python-based News Application that fetches and displays the latest tech
 * Displays article titles along with their URLs
 * Shows the total number of articles fetched
 * Clean and beginner-friendly Python code
+
 
 
 ##  Tech Stack
@@ -22,23 +24,29 @@ A simple Python-based News Application that fetches and displays the latest tech
 
 ##  Project Structure
 
-
+```
 news-app/
 │
 ├── main.py        # Main application file
 ├── config.py      # Stores API key (not pushed to GitHub)
 ├── README.md      # Project documentation
+```
 
 
 
-## 🔧 Customization
+##  Customization
 
 You can easily modify the search keyword by changing this line in `main.py`:
 
+```python
 query = "technology"
+```
 
 Example:
+
+```python
 query = "sports"
+```
 
 
 
@@ -50,3 +58,5 @@ query = "sports"
 * Writing clean and modular code
 
 
+
+Just tell me 👍
