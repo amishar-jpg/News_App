@@ -57,6 +57,3 @@ query = "sports"
 * Working with third-party APIs
 * Writing clean and modular code
 
-
-
-Just tell me 👍
